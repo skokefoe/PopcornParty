@@ -1,0 +1,35 @@
+[
+  {
+    "theater": "Hollywood Theatre",
+    "movies": [
+      {
+        "title": "WARFARE",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "NIGHTSHIFT",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/nightshift.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "BOUND",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/bound.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (subtitled)",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      }
+    ]
+  }
+]
