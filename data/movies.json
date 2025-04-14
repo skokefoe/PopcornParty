@@ -251,5 +251,9 @@
         "location": "Portland, OR"
       }
     ]
+  },
+  {
+    "theater": "Cinemagic",
+    "movies": []
   }
 ]
