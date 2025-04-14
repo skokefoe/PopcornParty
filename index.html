@@ -27,8 +27,9 @@
         
         if (theater === "Hollywood Theatre") {
             return `https://hollywoodtheatre.org/show/${kebabCase}`;
-        }
-        // Add Cinemagic URL structure when ready
+        } else if (theater === "Cinemagic") {
+        return `https://tickets.thecinemagictheater.com/movie/${kebabCase}`;
+    	}
         return '#';
     }
 
