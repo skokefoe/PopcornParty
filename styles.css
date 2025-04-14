@@ -57,6 +57,20 @@ footer {
     margin-top: 2rem;
 }
 
+.date-header {
+    color: #2c3e50;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.movie-image {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
 .date-section {
     margin: 2rem 0;
     padding: 1rem;
@@ -70,4 +84,15 @@ footer {
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid #e0e0e0;
+}
+
+.theater-section {
+    margin-bottom: 3rem;
+}
+
+.error {
+    color: #e74c3c;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.2rem;
 }

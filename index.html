@@ -68,11 +68,18 @@
                         const movieCard = document.createElement('div');
                         movieCard.className = 'movie-card';
                         
-                        movieCard.innerHTML = `
+                        let movieHtml = `
                             <h3 class="movie-title">${movie.title}</h3>
                             <p class="showtimes">Showtime: ${movie.showtime}</p>
                         `;
                         
+                        if (movie.image) {
+                            movieHtml = `
+                                <img src="${movie.image}" alt="${movie.title}" class="movie-image">
+                            ` + movieHtml;
+                        }
+                        
+                        movieCard.innerHTML = movieHtml;
                         dateSection.appendChild(movieCard);
                     });
 
