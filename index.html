@@ -22,69 +22,73 @@
         .then(response => response.json())
         .then(data => {
             const movieList = document.getElementById('movieList');
-            data.forEach(theater => {
-                // Create theater section
+            
+            // Loop through each theater's data
+            data.forEach(theaterData => {
                 const theaterSection = document.createElement('section');
                 theaterSection.className = 'theater-section';
                 
                 // Add theater header
                 const theaterHeader = document.createElement('h2');
-                theaterHeader.textContent = theater.theater;
+                theaterHeader.textContent = theaterData.theater;
                 theaterSection.appendChild(theaterHeader);
 
                 // Group movies by date
                 const moviesByDate = {};
-                theater.movies.forEach(movie => {
-                    if (!moviesByDate[movie.date]) {
-                        moviesByDate[movie.date] = [];
-                    }
-                    moviesByDate[movie.date].push(movie);
-                });
-
-                // Sort dates
-                const sortedDates = Object.keys(moviesByDate).sort();
-
-                // Display movies for each date
-                sortedDates.forEach(date => {
-                    const dateSection = document.createElement('div');
-                    dateSection.className = 'date-section';
-                    
-                    // Format date
-                    const [year, month, day] = date.split('-');
-                    const dateObj = new Date(year, month - 1, day);
-                    const formattedDate = dateObj.toLocaleDateString('en-US', {
-                        weekday: 'long',
-                        month: 'long',
-                        day: 'numeric'
-                    });
-                    
-                    const dateHeader = document.createElement('h3');
-                    dateHeader.className = 'date-header';
-                    dateHeader.textContent = formattedDate;
-                    dateSection.appendChild(dateHeader);
-
-                    // Add movies for this date
-                    moviesByDate[date].forEach(movie => {
-                        const movieCard = document.createElement('div');
-                        movieCard.className = 'movie-card';
-                        
-                        let movieHtml = `
-                            <h3 class="movie-title">${movie.title}</h3>
-                            <p class="showtimes">Showtime: ${movie.showtime}</p>
-                        `;
-                        
-                        if (movie.image) {
-                            movieHtml = `
-                                <img src="${movie.image}" alt="${movie.title}" class="movie-image">
-                            ` + movieHtml;
+                if (theaterData.movies && Array.isArray(theaterData.movies)) {
+                    theaterData.movies.forEach(movie => {
+                        const date = movie.date;
+                        if (!moviesByDate[date]) {
+                            moviesByDate[date] = [];
                         }
-                        
-                        movieCard.innerHTML = movieHtml;
-                        dateSection.appendChild(movieCard);
+                        moviesByDate[date].push(movie);
                     });
 
-                    theaterSection.appendChild(dateSection);
-                });
+                    // Sort dates
+                    const sortedDates = Object.keys(moviesByDate).sort();
+
+                    // Display movies for each date
+                    sortedDates.forEach(date => {
+                        const dateSection = document.createElement('div');
+                        dateSection.className = 'date-section';
+                        
+                        // Format date
+                        const [year, month, day] = date.split('-');
+                        const dateObj = new Date(year, month - 1, day);
+                        const formattedDate = dateObj.toLocaleDateString('en-US', {
+                            weekday: 'long',
+                            month: 'long',
+                            day: 'numeric'
+                        });
+                        
+                        const dateHeader = document.createElement('h3');
+                        dateHeader.className = 'date-header';
+                        dateHeader.textContent = formattedDate;
+                        dateSection.appendChild(dateHeader);
+
+                        // Add movies for this date
+                        moviesByDate[date].forEach(movie => {
+                            const movieCard = document.createElement('div');
+                            movieCard.className = 'movie-card';
+                            
+                            let movieHtml = `
+                                <h3 class="movie-title">${movie.title}</h3>
+                                <p class="showtimes">${movie.showtime}</p>
+                            `;
+                            
+                            if (movie.image) {
+                                movieHtml = `
+                                    <img src="${movie.image}" alt="${movie.title}" class="movie-image">
+                                ` + movieHtml;
+                            }
+                            
+                            movieCard.innerHTML = movieHtml;
+                            dateSection.appendChild(movieCard);
+                        });
+
+                        theaterSection.appendChild(dateSection);
+                    });
+                }
 
                 movieList.appendChild(theaterSection);
             });
