@@ -17,23 +17,12 @@
     <footer>
         <p>Updated daily with local movie times</p>
     </footer>
-// Replace the script section in index.html with this:
 <script>
     fetch('data/movies.json')
         .then(response => response.json())
         .then(data => {
             const movieList = document.getElementById('movieList');
             data.forEach(theater => {
-                // Group movies by date
-                const moviesByDate = theater.movies.reduce((acc, movie) => {
-                    const date = movie.date;
-                    if (!acc[date]) {
-                        acc[date] = [];
-                    }
-                    acc[date].push(movie);
-                    return acc;
-                }, {});
-
                 // Create theater section
                 const theaterSection = document.createElement('section');
                 theaterSection.className = 'theater-section';
@@ -43,13 +32,27 @@
                 theaterHeader.textContent = theater.theater;
                 theaterSection.appendChild(theaterHeader);
 
-                // Add movies grouped by date
-                Object.entries(moviesByDate).forEach(([date, movies]) => {
+                // Group movies by date
+                const moviesByDate = {};
+                theater.movies.forEach(movie => {
+                    if (!moviesByDate[movie.date]) {
+                        moviesByDate[movie.date] = [];
+                    }
+                    moviesByDate[movie.date].push(movie);
+                });
+
+                // Sort dates
+                const sortedDates = Object.keys(moviesByDate).sort();
+
+                // Display movies for each date
+                sortedDates.forEach(date => {
                     const dateSection = document.createElement('div');
                     dateSection.className = 'date-section';
                     
                     // Format date
-                    const formattedDate = new Date(date).toLocaleDateString('en-US', {
+                    const [year, month, day] = date.split('-');
+                    const dateObj = new Date(year, month - 1, day);
+                    const formattedDate = dateObj.toLocaleDateString('en-US', {
                         weekday: 'long',
                         month: 'long',
                         day: 'numeric'
@@ -61,7 +64,7 @@
                     dateSection.appendChild(dateHeader);
 
                     // Add movies for this date
-                    movies.forEach(movie => {
+                    moviesByDate[date].forEach(movie => {
                         const movieCard = document.createElement('div');
                         movieCard.className = 'movie-card';
                         
