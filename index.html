@@ -17,23 +17,51 @@
     <footer>
         <p>Updated daily with local movie times</p>
     </footer>
-    <script>
-        fetch('data/movies.json')
-            .then(response => response.json())
-            .then(data => {
-                const movieList = document.getElementById('movieList');
-                data.forEach(theater => {
-                    // Create theater section
-                    const theaterSection = document.createElement('section');
-                    theaterSection.className = 'theater-section';
-                    
-                    // Add theater header
-                    const theaterHeader = document.createElement('h2');
-                    theaterHeader.textContent = theater.theater;
-                    theaterSection.appendChild(theaterHeader);
+// Replace the script section in index.html with this:
+<script>
+    fetch('data/movies.json')
+        .then(response => response.json())
+        .then(data => {
+            const movieList = document.getElementById('movieList');
+            data.forEach(theater => {
+                // Group movies by date
+                const moviesByDate = theater.movies.reduce((acc, movie) => {
+                    const date = movie.date;
+                    if (!acc[date]) {
+                        acc[date] = [];
+                    }
+                    acc[date].push(movie);
+                    return acc;
+                }, {});
 
-                    // Add movies
-                    theater.movies.forEach(movie => {
+                // Create theater section
+                const theaterSection = document.createElement('section');
+                theaterSection.className = 'theater-section';
+                
+                // Add theater header
+                const theaterHeader = document.createElement('h2');
+                theaterHeader.textContent = theater.theater;
+                theaterSection.appendChild(theaterHeader);
+
+                // Add movies grouped by date
+                Object.entries(moviesByDate).forEach(([date, movies]) => {
+                    const dateSection = document.createElement('div');
+                    dateSection.className = 'date-section';
+                    
+                    // Format date
+                    const formattedDate = new Date(date).toLocaleDateString('en-US', {
+                        weekday: 'long',
+                        month: 'long',
+                        day: 'numeric'
+                    });
+                    
+                    const dateHeader = document.createElement('h3');
+                    dateHeader.className = 'date-header';
+                    dateHeader.textContent = formattedDate;
+                    dateSection.appendChild(dateHeader);
+
+                    // Add movies for this date
+                    movies.forEach(movie => {
                         const movieCard = document.createElement('div');
                         movieCard.className = 'movie-card';
                         
@@ -42,17 +70,20 @@
                             <p class="showtimes">Showtime: ${movie.showtime}</p>
                         `;
                         
-                        theaterSection.appendChild(movieCard);
+                        dateSection.appendChild(movieCard);
                     });
 
-                    movieList.appendChild(theaterSection);
+                    theaterSection.appendChild(dateSection);
                 });
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                document.getElementById('movieList').innerHTML = 
-                    '<p class="error">Sorry, there was an error loading the movie times.</p>';
+
+                movieList.appendChild(theaterSection);
             });
-    </script>
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.getElementById('movieList').innerHTML = 
+                '<p class="error">Sorry, there was an error loading the movie times.</p>';
+        });
+</script>
 </body>
 </html>
