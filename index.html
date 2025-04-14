@@ -18,22 +18,33 @@
         <p>Updated daily with local movie times</p>
     </footer>
 <script>
+    // Function to convert title to kebab case URL
+    function generateMovieUrl(title, theater) {
+        const kebabCase = title
+            .toLowerCase()
+            .replace(/[^a-z0-9\s-]/g, '') // Remove special characters
+            .replace(/\s+/g, '-'); // Replace spaces with hyphens
+        
+        if (theater === "Hollywood Theatre") {
+            return `https://hollywoodtheatre.org/show/${kebabCase}`;
+        }
+        // Add Cinemagic URL structure when ready
+        return '#';
+    }
+
     fetch('data/movies.json')
         .then(response => response.json())
         .then(data => {
             const movieList = document.getElementById('movieList');
             
-            // Loop through each theater's data
             data.forEach(theaterData => {
                 const theaterSection = document.createElement('section');
                 theaterSection.className = 'theater-section';
                 
-                // Add theater header
                 const theaterHeader = document.createElement('h2');
                 theaterHeader.textContent = theaterData.theater;
                 theaterSection.appendChild(theaterHeader);
 
-                // Group movies by date
                 const moviesByDate = {};
                 if (theaterData.movies && Array.isArray(theaterData.movies)) {
                     theaterData.movies.forEach(movie => {
@@ -44,15 +55,12 @@
                         moviesByDate[date].push(movie);
                     });
 
-                    // Sort dates
                     const sortedDates = Object.keys(moviesByDate).sort();
 
-                    // Display movies for each date
                     sortedDates.forEach(date => {
                         const dateSection = document.createElement('div');
                         dateSection.className = 'date-section';
                         
-                        // Format date
                         const [year, month, day] = date.split('-');
                         const dateObj = new Date(year, month - 1, day);
                         const formattedDate = dateObj.toLocaleDateString('en-US', {
@@ -66,20 +74,25 @@
                         dateHeader.textContent = formattedDate;
                         dateSection.appendChild(dateHeader);
 
-                        // Add movies for this date
                         moviesByDate[date].forEach(movie => {
                             const movieCard = document.createElement('div');
                             movieCard.className = 'movie-card';
                             
+                            const movieUrl = generateMovieUrl(movie.title, theaterData.theater);
+                            
                             let movieHtml = `
-                                <h3 class="movie-title">${movie.title}</h3>
+                                <a href="${movieUrl}" class="movie-title-link">
+                                    <h3 class="movie-title">${movie.title}</h3>
+                                </a>
                                 <p class="showtimes">${movie.showtime}</p>
                             `;
                             
                             if (movie.image) {
-                                movieHtml = `
-                                    <img src="${movie.image}" alt="${movie.title}" class="movie-image">
-                                ` + movieHtml;
+                                movieHtml += `
+                                    <a href="${movieUrl}" class="movie-image-link">
+                                        <img src="${movie.image}" alt="${movie.title}" class="movie-image">
+                                    </a>
+                                `;
                             }
                             
                             movieCard.innerHTML = movieHtml;
