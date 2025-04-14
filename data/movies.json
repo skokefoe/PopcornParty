@@ -1,0 +1,255 @@
+[
+  {
+    "theater": "Hollywood Theatre",
+    "movies": [
+      {
+        "title": "WARFARE",
+        "date": "2025-04-14",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "NIGHTSHIFT",
+        "date": "2025-04-14",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/nightshift.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "BOUND",
+        "date": "2025-04-14",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/bound.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (subtitled)",
+        "date": "2025-04-14",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-15",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SHOWGIRLS",
+        "date": "2025-04-15",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/showgirls2.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Tales From Grandma’s Attic w/ Rosy Boa",
+        "date": "2025-04-15",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Tales-from-Grandmas-Attic_16x9.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (dubbed)",
+        "date": "2025-04-15",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-16",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SHOWGIRLS",
+        "date": "2025-04-16",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/showgirls2.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE WICKER MAN (1973)",
+        "date": "2025-04-16",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/wicker-man.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (subtitled)",
+        "date": "2025-04-16",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "BLOCK DOG with BY MY SIDE",
+        "date": "2025-04-17",
+        "showtime": "5:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/BLOCK-DOG_-1-Everett-Bumstead-1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-17",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SHOWGIRLS",
+        "date": "2025-04-17",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/showgirls2.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FIREBREAK",
+        "date": "2025-04-17",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/firebreaktest1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (dubbed)",
+        "date": "2025-04-17",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "NORTHWEST FILM SHORTS PROGRAM 1",
+        "date": "2025-04-18",
+        "showtime": "5:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/1740791720614d7f75765a8e95ac6b28b1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-18",
+        "showtime": "6:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-18",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "RAINIER: A BEER ODYSSEY",
+        "date": "2025-04-18",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/RainierABeerOdyssey.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (subtitled)",
+        "date": "2025-04-18",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "LATE NIGHT SHORTS",
+        "date": "2025-04-18",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/PortPan_300x250-01-3.png",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ENVIRONMENTAL SHORTS",
+        "date": "2025-04-19",
+        "showtime": "12:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Kelp-in-Northwest-Promo-3-600x338-1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE CIRCUS",
+        "date": "2025-04-19",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/The-CIrcus_ticketing-pic.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SAFE SETS: DYING TO WORK IN THE FILM INDUSTRY",
+        "date": "2025-04-19",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/safe-sets_rust_alec-baldwin_Safe-Sets-current_02_10_55_09-Richard-Levien.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-19",
+        "showtime": "3:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "A MIDSUMMER NIGHT’S DREAM IN PRISON",
+        "date": "2025-04-19",
+        "showtime": "5:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/maxresdefault.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-19",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "NORTHWEST SHORTS PROGRAM 2",
+        "date": "2025-04-19",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/174079352378065ffa0b986836fc26202.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PRINCESS MONONOKE (subtitled)",
+        "date": "2025-04-19",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      }
+    ]
+  }
+]
