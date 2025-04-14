@@ -12,7 +12,7 @@
         <p>Local Movie Times</p>
     </header>
     <main id="movieList">
-        <!-- Movies will be inserted here by JavaScript -->
+        <!-- Movies will be inserted here -->
     </main>
     <footer>
         <p>Updated daily with local movie times</p>
@@ -21,10 +21,38 @@
         fetch('data/movies.json')
             .then(response => response.json())
             .then(data => {
-                // We'll add display logic here later
-                console.log(data);
+                const movieList = document.getElementById('movieList');
+                data.forEach(theater => {
+                    // Create theater section
+                    const theaterSection = document.createElement('section');
+                    theaterSection.className = 'theater-section';
+                    
+                    // Add theater header
+                    const theaterHeader = document.createElement('h2');
+                    theaterHeader.textContent = theater.theater;
+                    theaterSection.appendChild(theaterHeader);
+
+                    // Add movies
+                    theater.movies.forEach(movie => {
+                        const movieCard = document.createElement('div');
+                        movieCard.className = 'movie-card';
+                        
+                        movieCard.innerHTML = `
+                            <h3 class="movie-title">${movie.title}</h3>
+                            <p class="showtimes">Showtime: ${movie.showtime}</p>
+                        `;
+                        
+                        theaterSection.appendChild(movieCard);
+                    });
+
+                    movieList.appendChild(theaterSection);
+                });
             })
-            .catch(error => console.error('Error:', error));
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('movieList').innerHTML = 
+                    '<p class="error">Sorry, there was an error loading the movie times.</p>';
+            });
     </script>
 </body>
 </html>
