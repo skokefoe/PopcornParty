@@ -65,10 +65,28 @@ footer {
     border-bottom: 2px solid #e0e0e0;
 }
 
+.movie-title-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.movie-title-link:hover .movie-title {
+    color: #3498db;
+}
+
+.movie-image-link {
+    display: block;
+    margin-top: 1rem;
+}
+
 .movie-image {
     max-width: 200px;
     height: auto;
-    margin-bottom: 1rem;
+    transition: opacity 0.2s;
+}
+
+.movie-image:hover {
+    opacity: 0.8;
 }
 
 .date-section {
