@@ -251,5 +251,122 @@
         "location": "Portland, OR"
       }
     ]
+  },
+  {
+    "theater": "Cinemagic",
+    "movies": [
+      {
+        "title": "2046",
+        "date": "2025-04-14",
+        "showtime": "4:15PM",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Chungking Express",
+        "date": "2025-04-14",
+        "showtime": "7:00PM",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Shaun of the Dead",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Night of the Living Dead",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "In the Mood for Love",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Miami Connection",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Days of Being Wild",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "As Tears Go By",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "The Code w/ Special Guest Eugene Kotlyarenko",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Weathering With you",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Redline",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Ghost In The Shell",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Train To Busan",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Return of the Living Dead",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Art and Life: The Story of Jim Phillips",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Zombie",
+        "date": "2025-04-14",
+        "showtime": "",
+        "theater": "Cinemagic",
+        "location": "Portland, OR"
+      }
+    ]
   }
 ]
