@@ -4,38 +4,6 @@
     "movies": [
       {
         "title": "WARFARE",
-        "date": "2025-04-14",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "NIGHTSHIFT",
-        "date": "2025-04-14",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/nightshift.jpeg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "BOUND",
-        "date": "2025-04-14",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/bound.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "PRINCESS MONONOKE (subtitled)",
-        "date": "2025-04-14",
-        "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WARFARE",
         "date": "2025-04-15",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
@@ -181,7 +149,7 @@
       {
         "title": "LATE NIGHT SHORTS",
         "date": "2025-04-18",
-        "showtime": "9:30pm",
+        "showtime": "9:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/PortPan_300x250-01-3.png",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
@@ -205,7 +173,7 @@
       {
         "title": "SAFE SETS: DYING TO WORK IN THE FILM INDUSTRY",
         "date": "2025-04-19",
-        "showtime": "2:00pm",
+        "showtime": "2:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/safe-sets_rust_alec-baldwin_Safe-Sets-current_02_10_55_09-Richard-Levien.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
@@ -254,6 +222,127 @@
   },
   {
     "theater": "Cinemagic",
-    "movies": []
+    "movies": [
+      {
+        "title": "Days of Being Wild",
+        "date": "2025-04-15",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 40 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/days-of-being-wild-85394/movie-overview",
+        "image": null
+      },
+      {
+        "title": "In the Mood for Love",
+        "date": "2025-04-15",
+        "showtime": "4:45p",
+        "info": "PG, 1 hr 37 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/in-the-mood-for-love-20832/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Days of Being Wild",
+        "date": "2025-04-16",
+        "showtime": "4:50p",
+        "info": "Not Rated, 1 hr 40 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/days-of-being-wild-85394/movie-overview",
+        "image": null
+      },
+      {
+        "title": "In the Mood for Love",
+        "date": "2025-04-16",
+        "showtime": "7:00p",
+        "info": "PG, 1 hr 37 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/in-the-mood-for-love-20832/movie-overview",
+        "image": null
+      },
+      {
+        "title": "2046",
+        "date": "2025-04-17",
+        "showtime": "7:00p",
+        "info": "R, 2 hr 7 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/2046-90871/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Chungking Express",
+        "date": "2025-04-17",
+        "showtime": "4:40p",
+        "info": "PG13, 1 hr 43 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/chungking-express-22354/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Miami Connection",
+        "date": "2025-04-18",
+        "showtime": "9:20p",
+        "info": "R, 1 hr 30 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/miami-connection-135526/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Redline",
+        "date": "2025-04-18",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 42 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/redline-150670/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Redline",
+        "date": "2025-04-19",
+        "showtime": "9:00p",
+        "info": "Not Rated, 1 hr 42 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/redline-150670/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Weathering With You",
+        "date": "2025-04-19",
+        "showtime": "4:35p",
+        "info": "PG13, 1 hr 51 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Weathering With You",
+        "date": "2025-04-20",
+        "showtime": "7:00p",
+        "info": "PG13, 1 hr 51 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Miami Connection",
+        "date": "2025-04-21",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 30 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/miami-connection-135526/movie-overview",
+        "image": null
+      }
+    ]
   }
 ]
