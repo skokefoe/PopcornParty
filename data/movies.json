@@ -4,38 +4,6 @@
     "movies": [
       {
         "title": "WARFARE",
-        "date": "2025-04-15",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SHOWGIRLS",
-        "date": "2025-04-15",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/showgirls2.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "Tales From Grandma’s Attic w/ Rosy Boa",
-        "date": "2025-04-15",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Tales-from-Grandmas-Attic_16x9.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "PRINCESS MONONOKE (dubbed)",
-        "date": "2025-04-15",
-        "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WARFARE",
         "date": "2025-04-16",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
@@ -225,26 +193,6 @@
     "movies": [
       {
         "title": "Days of Being Wild",
-        "date": "2025-04-15",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 40 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/days-of-being-wild-85394/movie-overview",
-        "image": null
-      },
-      {
-        "title": "In the Mood for Love",
-        "date": "2025-04-15",
-        "showtime": "4:45p",
-        "info": "PG, 1 hr 37 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/in-the-mood-for-love-20832/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Days of Being Wild",
         "date": "2025-04-16",
         "showtime": "4:50p",
         "info": "Not Rated, 1 hr 40 min",
@@ -341,6 +289,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/miami-connection-135526/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Redline",
+        "date": "2025-04-22",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 42 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/redline-150670/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Weathering With You",
+        "date": "2025-04-22",
+        "showtime": "4:30p",
+        "info": "PG13, 1 hr 51 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
         "image": null
       }
     ]
