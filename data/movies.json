@@ -3,46 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "BLOCK DOG with BY MY SIDE",
-        "date": "2025-04-17",
-        "showtime": "5:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/BLOCK-DOG_-1-Everett-Bumstead-1.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WARFARE",
-        "date": "2025-04-17",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SHOWGIRLS",
-        "date": "2025-04-17",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/showgirls2.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FIREBREAK",
-        "date": "2025-04-17",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/firebreaktest1.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "PRINCESS MONONOKE (dubbed)",
-        "date": "2025-04-17",
-        "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "NORTHWEST FILM SHORTS PROGRAM 1",
         "date": "2025-04-18",
         "showtime": "5:00pm",
@@ -160,26 +120,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "2046",
-        "date": "2025-04-17",
-        "showtime": "7:00p",
-        "info": "R, 2 hr 7 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/2046-90871/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Chungking Express",
-        "date": "2025-04-17",
-        "showtime": "4:40p",
-        "info": "PG13, 1 hr 43 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/chungking-express-22354/movie-overview",
-        "image": null
-      },
-      {
         "title": "Miami Connection",
         "date": "2025-04-18",
         "showtime": "9:20p",
@@ -267,6 +207,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/as-tears-go-by-32483/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Weathering With You",
+        "date": "2025-04-24",
+        "showtime": "7:00p",
+        "info": "PG13, 1 hr 51 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
         "image": null
       }
     ]
