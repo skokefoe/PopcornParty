@@ -3,66 +3,274 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "ENVIRONMENTAL SHORTS",
-        "date": "2025-04-19",
+        "title": "THE LONG LONG NIGHT: EPISODES 1-2",
+        "date": "2025-04-20",
         "showtime": "12:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Kelp-in-Northwest-Promo-3-600x338-1.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/20230617_115807-1050x525-1.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "THE CIRCUS",
-        "date": "2025-04-19",
+        "title": "HRAFNAMYND",
+        "date": "2025-04-20",
         "showtime": "2:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/The-CIrcus_ticketing-pic.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hrafnamynd-thumbnail.jpeg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "SAFE SETS: DYING TO WORK IN THE FILM INDUSTRY",
-        "date": "2025-04-19",
+        "title": "PRINCESS MONONOKE (dubbed)",
+        "date": "2025-04-20",
         "showtime": "2:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/safe-sets_rust_alec-baldwin_Safe-Sets-current_02_10_55_09-Richard-Levien.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
         "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-19",
+        "date": "2025-04-20",
         "showtime": "3:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "A MIDSUMMER NIGHT’S DREAM IN PRISON",
-        "date": "2025-04-19",
+        "title": "NORTHWEST SHORTS PROGRAM 3",
+        "date": "2025-04-20",
+        "showtime": "4:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/174072396589696bff566207090026c0c1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "TRASH BABY",
+        "date": "2025-04-20",
         "showtime": "5:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/maxresdefault.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/TRASH-BABY_3-Ryko-Films-2.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
         "title": "WARFARE",
-        "date": "2025-04-19",
+        "date": "2025-04-20",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-21",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "RRR",
+        "date": "2025-04-21",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "L.A. STORY",
+        "date": "2025-04-21",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/la-story.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-21",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-22",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "NORTHWEST SHORTS PROGRAM 2",
-        "date": "2025-04-19",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/174079352378065ffa0b986836fc26202.jpg",
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-22",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "PRINCESS MONONOKE (subtitled)",
-        "date": "2025-04-19",
+        "title": "NEW INDIGENOUS SHORT FILMS (“Earth Day!”)",
+        "date": "2025-04-22",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-1-welimaq_photo2.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-23",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ERASERHEAD in 35mm",
+        "date": "2025-04-23",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Eraserhead.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "INLAND EMPIRE",
+        "date": "2025-04-23",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/inland-empire.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-23",
         "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mononokee.jpeg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WILD AT HEART",
+        "date": "2025-04-23",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/wild-at-heart.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-24",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "BLUE VELVET",
+        "date": "2025-04-24",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/blue-velvet.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "INLAND EMPIRE",
+        "date": "2025-04-24",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/inland-empire.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WARFARE",
+        "date": "2025-04-24",
+        "showtime": "8:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "MULHOLLAND DRIVE in 35mm",
+        "date": "2025-04-24",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mulholland-drive.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WILD AT HEART",
+        "date": "2025-04-25",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/wild-at-heart.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CHEECH & CHONG’S LAST MOVIE",
+        "date": "2025-04-25",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "HACKERS",
+        "date": "2025-04-25",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "LOST HIGHWAY",
+        "date": "2025-04-25",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/lost-highway.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE ELEPHANT MAN",
+        "date": "2025-04-26",
+        "showtime": "12:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/elephant-man.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "BLUE VELVET",
+        "date": "2025-04-26",
+        "showtime": "3:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/blue-velvet.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CHEECH & CHONG’S LAST MOVIE",
+        "date": "2025-04-26",
+        "showtime": "4:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "MULHOLLAND DRIVE in 35mm",
+        "date": "2025-04-26",
+        "showtime": "6:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mulholland-drive.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "HACKERS",
+        "date": "2025-04-26",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ERASERHEAD in 35mm",
+        "date": "2025-04-26",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Eraserhead.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       }
@@ -71,26 +279,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Redline",
-        "date": "2025-04-19",
-        "showtime": "9:00p",
-        "info": "Not Rated, 1 hr 42 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/redline-150670/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Weathering With You",
-        "date": "2025-04-19",
-        "showtime": "4:35p",
-        "info": "PG13, 1 hr 51 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
-        "image": null
-      },
       {
         "title": "Weathering With You",
         "date": "2025-04-20",
@@ -169,6 +357,36 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Zombie",
+        "date": "2025-04-26",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 31 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/zombie-2350/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Night of the Living Dead (1990)",
+        "date": "2025-04-26",
+        "showtime": "4:50p",
+        "info": "R, 1 hr 36 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/night-of-the-living-dead-1990-895/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Return of the Living Dead",
+        "date": "2025-04-26",
+        "showtime": "9:10p",
+        "info": "R, 1 hr 31 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
         "image": null
       }
     ]
