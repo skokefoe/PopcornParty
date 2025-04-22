@@ -3,38 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-21",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "RRR",
-        "date": "2025-04-21",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "L.A. STORY",
-        "date": "2025-04-21",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/la-story.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WARFARE",
-        "date": "2025-04-21",
-        "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "WARFARE",
         "date": "2025-04-22",
         "showtime": "6:30pm",
@@ -187,6 +155,14 @@
         "location": "Portland, OR"
       },
       {
+        "title": "ONE TO ONE: JOHN & YOKO",
+        "date": "2025-04-26",
+        "showtime": "3:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
         "title": "CHEECH & CHONG’S LAST MOVIE",
         "date": "2025-04-26",
         "showtime": "4:00pm",
@@ -223,16 +199,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Miami Connection",
-        "date": "2025-04-21",
-        "showtime": "7:00p",
-        "info": "R, 1 hr 30 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/miami-connection-135526/movie-overview",
-        "image": null
-      },
       {
         "title": "Redline",
         "date": "2025-04-22",
@@ -341,6 +307,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Train to Busan",
+        "date": "2025-04-28",
+        "showtime": "4:30p",
+        "info": "Not Rated, 1 hr 58 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/train-to-busan-193980/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Shaun of the Dead",
+        "date": "2025-04-28",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 37 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
         "image": null
       }
     ]
