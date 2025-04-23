@@ -3,30 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "WARFARE",
-        "date": "2025-04-22",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-22",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "NEW INDIGENOUS SHORT FILMS (“Earth Day!”)",
-        "date": "2025-04-22",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-1-welimaq_photo2.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "ONE TO ONE: JOHN & YOKO",
         "date": "2025-04-23",
         "showtime": "6:30pm",
@@ -200,26 +176,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "Redline",
-        "date": "2025-04-22",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 42 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/redline-150670/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Weathering With You",
-        "date": "2025-04-22",
-        "showtime": "4:30p",
-        "info": "PG13, 1 hr 51 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
-        "image": null
-      },
-      {
         "title": "As Tears Go By",
         "date": "2025-04-23",
         "showtime": "7:00p",
@@ -327,6 +283,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Zombie",
+        "date": "2025-04-29",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 31 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/zombie-2350/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Return of the Living Dead",
+        "date": "2025-04-29",
+        "showtime": "4:50p",
+        "info": "R, 1 hr 31 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
         "image": null
       }
     ]
