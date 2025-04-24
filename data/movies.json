@@ -4,46 +4,6 @@
     "movies": [
       {
         "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-23",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "ERASERHEAD in 35mm",
-        "date": "2025-04-23",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Eraserhead.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "INLAND EMPIRE",
-        "date": "2025-04-23",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/inland-empire.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WARFARE",
-        "date": "2025-04-23",
-        "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WILD AT HEART",
-        "date": "2025-04-23",
-        "showtime": "9:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/wild-at-heart.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "ONE TO ONE: JOHN & YOKO",
         "date": "2025-04-24",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
@@ -176,16 +136,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "As Tears Go By",
-        "date": "2025-04-23",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 42 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/as-tears-go-by-32483/movie-overview",
-        "image": null
-      },
-      {
         "title": "Weathering With You",
         "date": "2025-04-24",
         "showtime": "7:00p",
@@ -299,6 +249,26 @@
         "title": "The Return of the Living Dead",
         "date": "2025-04-29",
         "showtime": "4:50p",
+        "info": "R, 1 hr 31 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Zombie",
+        "date": "2025-04-30",
+        "showtime": "4:50p",
+        "info": "Not Rated, 1 hr 31 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/zombie-2350/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Return of the Living Dead",
+        "date": "2025-04-30",
+        "showtime": "7:00p",
         "info": "R, 1 hr 31 min",
         "theater": "Cinemagic",
         "location": "Portland, OR",
