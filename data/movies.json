@@ -3,46 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-24",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "BLUE VELVET",
-        "date": "2025-04-24",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/blue-velvet.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "INLAND EMPIRE",
-        "date": "2025-04-24",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/inland-empire.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "WARFARE",
-        "date": "2025-04-24",
-        "showtime": "8:45pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/warfare.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "MULHOLLAND DRIVE in 35mm",
-        "date": "2025-04-24",
-        "showtime": "9:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mulholland-drive.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "WILD AT HEART",
         "date": "2025-04-25",
         "showtime": "6:30pm",
@@ -135,16 +95,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Weathering With You",
-        "date": "2025-04-24",
-        "showtime": "7:00p",
-        "info": "PG13, 1 hr 51 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/weathering-with-you-224592/movie-overview",
-        "image": null
-      },
       {
         "title": "Train to Busan",
         "date": "2025-04-25",
@@ -273,6 +223,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Train to Busan",
+        "date": "2025-05-01",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 58 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/train-to-busan-193980/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Shaun of the Dead",
+        "date": "2025-05-01",
+        "showtime": "4:50p",
+        "info": "R, 1 hr 37 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
         "image": null
       }
     ]
