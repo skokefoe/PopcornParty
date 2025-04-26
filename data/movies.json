@@ -3,38 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "WILD AT HEART",
-        "date": "2025-04-25",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/wild-at-heart.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "CHEECH & CHONG’S LAST MOVIE",
-        "date": "2025-04-25",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "HACKERS",
-        "date": "2025-04-25",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "LOST HIGHWAY",
-        "date": "2025-04-25",
-        "showtime": "9:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/lost-highway.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "THE ELEPHANT MAN",
         "date": "2025-04-26",
         "showtime": "12:00pm",
@@ -95,26 +63,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Train to Busan",
-        "date": "2025-04-25",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 58 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/train-to-busan-193980/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Shaun of the Dead",
-        "date": "2025-04-25",
-        "showtime": "9:35p",
-        "info": "R, 1 hr 37 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
-        "image": null
-      },
       {
         "title": "Zombie",
         "date": "2025-04-26",
@@ -243,6 +191,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Warriors",
+        "date": "2025-05-02",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 32 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
         "image": null
       }
     ]
