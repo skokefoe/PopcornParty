@@ -3,24 +3,16 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "THE ELEPHANT MAN",
-        "date": "2025-04-26",
+        "title": "THE STRAIGHT STORY in 35mm",
+        "date": "2025-04-27",
         "showtime": "12:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/elephant-man.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "BLUE VELVET",
-        "date": "2025-04-26",
-        "showtime": "3:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/blue-velvet.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/straight-story.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
         "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-26",
+        "date": "2025-04-27",
         "showtime": "3:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
         "theater": "Hollywood Theatre",
@@ -28,33 +20,185 @@
       },
       {
         "title": "CHEECH & CHONG’S LAST MOVIE",
-        "date": "2025-04-26",
+        "date": "2025-04-27",
         "showtime": "4:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "MULHOLLAND DRIVE in 35mm",
-        "date": "2025-04-26",
+        "title": "LOST HIGHWAY",
+        "date": "2025-04-27",
         "showtime": "6:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/mulholland-drive.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/lost-highway.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
         "title": "HACKERS",
-        "date": "2025-04-26",
+        "date": "2025-04-27",
         "showtime": "7:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "ERASERHEAD in 35mm",
-        "date": "2025-04-26",
-        "showtime": "9:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Eraserhead.jpg",
+        "title": "INLAND EMPIRE",
+        "date": "2025-04-27",
+        "showtime": "9:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/inland-empire.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CHEECH & CHONG’S LAST MOVIE",
+        "date": "2025-04-28",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "NEW CONSTELLATIONS with Takashi Makino and Liz Harris",
+        "date": "2025-04-28",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/COSMOS.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "The Movie Quiz in April",
+        "date": "2025-04-28",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Quiz-04.2025-Site.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "HACKERS",
+        "date": "2025-04-29",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CHEECH & CHONG’S LAST MOVIE",
+        "date": "2025-04-29",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE ELEPHANT MAN",
+        "date": "2025-04-29",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/elephant-man.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "HACKERS",
+        "date": "2025-04-30",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CHEECH & CHONG’S LAST MOVIE",
+        "date": "2025-04-30",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ONIBABA in 35mm",
+        "date": "2025-04-30",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/Onibaba_FBEvent.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-01",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE ROYAL TENENBAUMS",
+        "date": "2025-05-01",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/royal-tenenbaums.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Environmental Justice May Day: OUR MOVEMENT STARTS HERE and ADIDAS OWNS THE REALITY",
+        "date": "2025-05-01",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-1-OMSH_Dollie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-02",
+        "showtime": "6:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-02",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "OIKOS/HOMECOMING",
+        "date": "2025-05-02",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-4-112223_4_Barmmy_Still_2.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-03",
+        "showtime": "2:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-03",
+        "showtime": "3:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ECOLOGY, ANIMATED!",
+        "date": "2025-05-03",
+        "showtime": "3:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-1-Still_quylluriti0.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE CONVERSATION in 35mm",
+        "date": "2025-05-03",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2024/08/conversation.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       }
@@ -63,36 +207,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Zombie",
-        "date": "2025-04-26",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 31 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/zombie-2350/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Night of the Living Dead (1990)",
-        "date": "2025-04-26",
-        "showtime": "4:50p",
-        "info": "R, 1 hr 36 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/night-of-the-living-dead-1990-895/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The Return of the Living Dead",
-        "date": "2025-04-26",
-        "showtime": "9:10p",
-        "info": "R, 1 hr 31 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
-        "image": null
-      },
       {
         "title": "Night of the Living Dead (1990)",
         "date": "2025-04-27",
@@ -197,6 +311,26 @@
         "title": "The Warriors",
         "date": "2025-05-02",
         "showtime": "7:00p",
+        "info": "R, 1 hr 32 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Art and Life: The Story of Jim Phillips (2024)",
+        "date": "2025-05-03",
+        "showtime": "7:00p, 9:15p",
+        "info": "Not Rated, 1 hr 30 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/art-and-life-the-story-of-jim-phillips-2024-238239/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Warriors",
+        "date": "2025-05-03",
+        "showtime": "4:40p",
         "info": "R, 1 hr 32 min",
         "theater": "Cinemagic",
         "location": "Portland, OR",
