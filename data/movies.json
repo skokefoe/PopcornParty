@@ -3,54 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "THE STRAIGHT STORY in 35mm",
-        "date": "2025-04-27",
-        "showtime": "12:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/straight-story.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "ONE TO ONE: JOHN & YOKO",
-        "date": "2025-04-27",
-        "showtime": "3:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/john-and-yoko.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "CHEECH & CHONG’S LAST MOVIE",
-        "date": "2025-04-27",
-        "showtime": "4:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "LOST HIGHWAY",
-        "date": "2025-04-27",
-        "showtime": "6:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/lost-highway.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "HACKERS",
-        "date": "2025-04-27",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "INLAND EMPIRE",
-        "date": "2025-04-27",
-        "showtime": "9:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/inland-empire.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "CHEECH & CHONG’S LAST MOVIE",
         "date": "2025-04-28",
         "showtime": "6:30pm",
@@ -208,26 +160,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "Night of the Living Dead (1990)",
-        "date": "2025-04-27",
-        "showtime": "7:00p",
-        "info": "R, 1 hr 36 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/night-of-the-living-dead-1990-895/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The Return of the Living Dead",
-        "date": "2025-04-27",
-        "showtime": "4:50p",
-        "info": "R, 1 hr 31 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
-        "image": null
-      },
-      {
         "title": "Train to Busan",
         "date": "2025-04-28",
         "showtime": "4:30p",
@@ -335,6 +267,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Pitch Black",
+        "date": "2025-05-04",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 48 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/pitch-black-53/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Fifth Element",
+        "date": "2025-05-04",
+        "showtime": "4:10p",
+        "info": "PG13, 2 hr 7 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-fifth-element-1462/movie-overview",
         "image": null
       }
     ]
