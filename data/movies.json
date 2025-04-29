@@ -3,30 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "CHEECH & CHONG’S LAST MOVIE",
-        "date": "2025-04-28",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "NEW CONSTELLATIONS with Takashi Makino and Liz Harris",
-        "date": "2025-04-28",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/COSMOS.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "The Movie Quiz in April",
-        "date": "2025-04-28",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Quiz-04.2025-Site.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "HACKERS",
         "date": "2025-04-29",
         "showtime": "6:30pm",
@@ -160,26 +136,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "Train to Busan",
-        "date": "2025-04-28",
-        "showtime": "4:30p",
-        "info": "Not Rated, 1 hr 58 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/train-to-busan-193980/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Shaun of the Dead",
-        "date": "2025-04-28",
-        "showtime": "7:00p",
-        "info": "R, 1 hr 37 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
-        "image": null
-      },
-      {
         "title": "Zombie",
         "date": "2025-04-29",
         "showtime": "7:00p",
@@ -283,6 +239,26 @@
         "title": "The Fifth Element",
         "date": "2025-05-04",
         "showtime": "4:10p",
+        "info": "PG13, 2 hr 7 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-fifth-element-1462/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Pitch Black",
+        "date": "2025-05-05",
+        "showtime": "4:30p",
+        "info": "R, 1 hr 48 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/pitch-black-53/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Fifth Element",
+        "date": "2025-05-05",
+        "showtime": "7:00p",
         "info": "PG13, 2 hr 7 min",
         "theater": "Cinemagic",
         "location": "Portland, OR",
