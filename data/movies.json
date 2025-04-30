@@ -4,30 +4,6 @@
     "movies": [
       {
         "title": "HACKERS",
-        "date": "2025-04-29",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "CHEECH & CHONG’S LAST MOVIE",
-        "date": "2025-04-29",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cheech-and-chong.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE ELEPHANT MAN",
-        "date": "2025-04-29",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/elephant-man.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "HACKERS",
         "date": "2025-04-30",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/hackers.jpg",
@@ -137,26 +113,6 @@
     "movies": [
       {
         "title": "Zombie",
-        "date": "2025-04-29",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 31 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/zombie-2350/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The Return of the Living Dead",
-        "date": "2025-04-29",
-        "showtime": "4:50p",
-        "info": "R, 1 hr 31 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-return-of-the-living-dead-77864/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Zombie",
         "date": "2025-04-30",
         "showtime": "4:50p",
         "info": "Not Rated, 1 hr 31 min",
@@ -263,6 +219,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-fifth-element-1462/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Night Comes for Us (2018)",
+        "date": "2025-05-06",
+        "showtime": "7:00p",
+        "info": "Not Rated, 2 hr 1 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-night-comes-for-us-2018-238296/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Warriors",
+        "date": "2025-05-06",
+        "showtime": "4:50p",
+        "info": "R, 1 hr 32 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
         "image": null
       }
     ]
