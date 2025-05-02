@@ -3,30 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "THE SURFER",
-        "date": "2025-05-01",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE ROYAL TENENBAUMS",
-        "date": "2025-05-01",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/royal-tenenbaums.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "Environmental Justice May Day: OUR MOVEMENT STARTS HERE and ADIDAS OWNS THE REALITY",
-        "date": "2025-05-01",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-1-OMSH_Dollie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "SINNERS",
         "date": "2025-05-02",
         "showtime": "6:00pm",
@@ -87,26 +63,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Train to Busan",
-        "date": "2025-05-01",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 58 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/train-to-busan-193980/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Shaun of the Dead",
-        "date": "2025-05-01",
-        "showtime": "4:50p",
-        "info": "R, 1 hr 37 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/shaun-of-the-dead-84544/movie-overview",
-        "image": null
-      },
       {
         "title": "The Warriors",
         "date": "2025-05-02",
@@ -215,6 +171,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-fifth-element-1462/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Night Comes for Us (2018)",
+        "date": "2025-05-08",
+        "showtime": "4:20p",
+        "info": "Not Rated, 2 hr 1 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-night-comes-for-us-2018-238296/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Warriors",
+        "date": "2025-05-08",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 32 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
         "image": null
       }
     ]
