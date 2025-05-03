@@ -4,30 +4,6 @@
     "movies": [
       {
         "title": "SINNERS",
-        "date": "2025-05-02",
-        "showtime": "6:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE SURFER",
-        "date": "2025-05-02",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "OIKOS/HOMECOMING",
-        "date": "2025-05-02",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-4-112223_4_Barmmy_Still_2.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SINNERS",
         "date": "2025-05-03",
         "showtime": "2:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
@@ -63,16 +39,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "The Warriors",
-        "date": "2025-05-02",
-        "showtime": "7:00p",
-        "info": "R, 1 hr 32 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
-        "image": null
-      },
       {
         "title": "Art and Life: The Story of Jim Phillips (2024)",
         "date": "2025-05-03",
@@ -191,6 +157,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Clown in a Cornfield (2025)",
+        "date": "2025-05-09",
+        "showtime": "7:00p, 9:10p",
+        "info": "R, 1 hr 36 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
         "image": null
       }
     ]
