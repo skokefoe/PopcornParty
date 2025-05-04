@@ -3,8 +3,16 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
+        "title": "ROMCOMATHON",
+        "date": "2025-05-04",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/RomcomathonBanner.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
         "title": "SINNERS",
-        "date": "2025-05-03",
+        "date": "2025-05-04",
         "showtime": "2:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
         "theater": "Hollywood Theatre",
@@ -12,25 +20,185 @@
       },
       {
         "title": "THE SURFER",
-        "date": "2025-05-03",
+        "date": "2025-05-04",
         "showtime": "3:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "ECOLOGY, ANIMATED!",
-        "date": "2025-05-03",
-        "showtime": "3:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Photo-1-Still_quylluriti0.jpg",
+        "title": "THE WITCH: REVENGE",
+        "date": "2025-05-04",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/WitchRevenge_full_face.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "THE CONVERSATION in 35mm",
-        "date": "2025-05-03",
+        "title": "THE SURFER",
+        "date": "2025-05-05",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE POSEIDON ADVENTURE",
+        "date": "2025-05-05",
         "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2024/08/conversation.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/poseidon-adventure.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "A WU TANG EXPERIENCE: LIVE AT RED ROCKS",
+        "date": "2025-05-05",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Wu-Tang-At-Red-Rocks-3.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-05",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-06",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-06",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SPECIAL SILENCERS",
+        "date": "2025-05-06",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/16x9_specialsilencers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-07",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-07",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "BEYOND HYPOTHERMIA",
+        "date": "2025-05-07",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/beyondhypothermia.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-08",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-08",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE PUBLIC ENEMY in 35mm",
+        "date": "2025-05-08",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/SS.PublicEnemy.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-09",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-09",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "VIY",
+        "date": "2025-05-09",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/viy.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "DONNIE DARKO in 35mm",
+        "date": "2025-05-09",
+        "showtime": "9:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/donnie-darko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "TOP HAT",
+        "date": "2025-05-10",
+        "showtime": "2:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/TOP-HAT.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-10",
+        "showtime": "3:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-10",
+        "showtime": "3:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "DONNIE DARKO in 35mm",
+        "date": "2025-05-10",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/donnie-darko.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       }
@@ -39,26 +207,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Art and Life: The Story of Jim Phillips (2024)",
-        "date": "2025-05-03",
-        "showtime": "7:00p, 9:15p",
-        "info": "Not Rated, 1 hr 30 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/art-and-life-the-story-of-jim-phillips-2024-238239/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The Warriors",
-        "date": "2025-05-03",
-        "showtime": "4:40p",
-        "info": "R, 1 hr 32 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-warriors-227119/movie-overview",
-        "image": null
-      },
       {
         "title": "Pitch Black",
         "date": "2025-05-04",
@@ -167,6 +315,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Clown in a Cornfield (2025)",
+        "date": "2025-05-10",
+        "showtime": "2:30p, 4:40p",
+        "info": "R, 1 hr 36 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Code (2024)",
+        "date": "2025-05-10",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 38 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-code-2024-240287/movie-overview",
         "image": null
       }
     ]
