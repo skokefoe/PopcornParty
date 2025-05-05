@@ -3,38 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "ROMCOMATHON",
-        "date": "2025-05-04",
-        "showtime": "2:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/RomcomathonBanner.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SINNERS",
-        "date": "2025-05-04",
-        "showtime": "2:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE SURFER",
-        "date": "2025-05-04",
-        "showtime": "3:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE WITCH: REVENGE",
-        "date": "2025-05-04",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/WitchRevenge_full_face.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "THE SURFER",
         "date": "2025-05-05",
         "showtime": "6:30pm",
@@ -209,26 +177,6 @@
     "movies": [
       {
         "title": "Pitch Black",
-        "date": "2025-05-04",
-        "showtime": "7:00p",
-        "info": "R, 1 hr 48 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/pitch-black-53/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The Fifth Element",
-        "date": "2025-05-04",
-        "showtime": "4:10p",
-        "info": "PG13, 2 hr 7 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-fifth-element-1462/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Pitch Black",
         "date": "2025-05-05",
         "showtime": "4:30p",
         "info": "R, 1 hr 48 min",
@@ -335,6 +283,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-code-2024-240287/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Clown in a Cornfield (2025)",
+        "date": "2025-05-11",
+        "showtime": "4:45p, 7:00p",
+        "info": "R, 1 hr 36 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
         "image": null
       }
     ]
