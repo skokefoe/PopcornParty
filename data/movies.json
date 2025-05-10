@@ -3,38 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "THE SURFER",
-        "date": "2025-05-09",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SINNERS",
-        "date": "2025-05-09",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "VIY",
-        "date": "2025-05-09",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/viy.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "DONNIE DARKO in 35mm",
-        "date": "2025-05-09",
-        "showtime": "9:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/donnie-darko.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "TOP HAT",
         "date": "2025-05-10",
         "showtime": "2:30pm",
@@ -71,16 +39,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Clown in a Cornfield (2025)",
-        "date": "2025-05-09",
-        "showtime": "7:00p, 9:10p",
-        "info": "R, 1 hr 36 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
-        "image": null
-      },
       {
         "title": "Clown in a Cornfield (2025)",
         "date": "2025-05-10",
@@ -149,6 +107,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Universal Soldier (1992)",
+        "date": "2025-05-16",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 42 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/universal-soldier-1992-236289/movie-overview",
         "image": null
       }
     ]
