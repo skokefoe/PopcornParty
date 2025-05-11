@@ -3,34 +3,186 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
+        "title": "SINNERS",
+        "date": "2025-05-11",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
         "title": "TOP HAT",
-        "date": "2025-05-10",
+        "date": "2025-05-11",
         "showtime": "2:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/TOP-HAT.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
+        "title": "DONNIE DARKO in 35mm",
+        "date": "2025-05-11",
+        "showtime": "3:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/donnie-darko.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-11",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Portland 48 Hour Horror & Sci-Fi Project World Premiers",
+        "date": "2025-05-11",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/2025-PDX-Screening-Graphic-lil-goons.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-12",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP EARLY ACCESS SCREENING",
+        "date": "2025-05-12",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Friendship.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
         "title": "SINNERS",
-        "date": "2025-05-10",
-        "showtime": "3:00pm",
+        "date": "2025-05-12",
+        "showtime": "7:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
         "title": "THE SURFER",
-        "date": "2025-05-10",
-        "showtime": "3:30pm",
+        "date": "2025-05-13",
+        "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "DONNIE DARKO in 35mm",
-        "date": "2025-05-10",
+        "title": "SINNERS",
+        "date": "2025-05-13",
         "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/donnie-darko.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "INVINCIBLE ARMOUR in 35mm",
+        "date": "2025-05-13",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/invincible-armour-final.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE SURFER",
+        "date": "2025-05-14",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "I KNOW CATHERINE, THE LOG LADY",
+        "date": "2025-05-14",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/log-lady.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "JAPANESE AVANT-GARDE PIONEERS",
+        "date": "2025-05-14",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/japanese-avant-garde.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-14",
+        "showtime": "9:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-15",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SINNERS",
+        "date": "2025-05-15",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "REAL LIFE WITH JON WURSTER",
+        "date": "2025-05-15",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/REAL-LIFE.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Filmed By Bike",
+        "date": "2025-05-16",
+        "showtime": "6:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/squareposter.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-16",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-17",
+        "showtime": "1:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "A GOOFY MOVIE",
+        "date": "2025-05-17",
+        "showtime": "1:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/A-GOOFY-MOVIE.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Filmed By Bike",
+        "date": "2025-05-17",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/squareposter.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       }
@@ -39,26 +191,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Clown in a Cornfield (2025)",
-        "date": "2025-05-10",
-        "showtime": "2:30p, 4:40p",
-        "info": "R, 1 hr 36 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The Code (2024)",
-        "date": "2025-05-10",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 38 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-code-2024-240287/movie-overview",
-        "image": null
-      },
       {
         "title": "Clown in a Cornfield (2025)",
         "date": "2025-05-11",
@@ -117,6 +249,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/universal-soldier-1992-236289/movie-overview",
+        "image": null
+      },
+      {
+        "title": "From Dusk Till Dawn",
+        "date": "2025-05-17",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 47 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/from-dusk-till-dawn-1728/movie-overview",
         "image": null
       }
     ]
