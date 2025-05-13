@@ -4,30 +4,6 @@
     "movies": [
       {
         "title": "THE SURFER",
-        "date": "2025-05-12",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP EARLY ACCESS SCREENING",
-        "date": "2025-05-12",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/Friendship.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SINNERS",
-        "date": "2025-05-12",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/sinners.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE SURFER",
         "date": "2025-05-13",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/surfer.jpg",
@@ -153,16 +129,6 @@
     "movies": [
       {
         "title": "Clown in a Cornfield (2025)",
-        "date": "2025-05-12",
-        "showtime": "4:50p, 7:00p",
-        "info": "R, 1 hr 36 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/clown-in-a-cornfield-2025-240014/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Clown in a Cornfield (2025)",
         "date": "2025-05-13",
         "showtime": "4:50p, 7:00p",
         "info": "R, 1 hr 36 min",
@@ -239,6 +205,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-burbs-98752/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Inherent Vice",
+        "date": "2025-05-19",
+        "showtime": "7:00p",
+        "info": "R, 2 hr 28 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/inherent-vice-176742/movie-overview",
+        "image": null
+      },
+      {
+        "title": "From Dusk Till Dawn",
+        "date": "2025-05-19",
+        "showtime": "4:35p",
+        "info": "R, 1 hr 47 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/from-dusk-till-dawn-1728/movie-overview",
         "image": null
       }
     ]
