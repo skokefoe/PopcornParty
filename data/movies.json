@@ -4,7 +4,7 @@
     "movies": [
       {
         "title": "FRIENDSHIP",
-        "date": "2025-05-17",
+        "date": "2025-05-18",
         "showtime": "1:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
         "theater": "Hollywood Theatre",
@@ -12,7 +12,7 @@
       },
       {
         "title": "A GOOFY MOVIE",
-        "date": "2025-05-17",
+        "date": "2025-05-18",
         "showtime": "1:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/A-GOOFY-MOVIE.jpg",
         "theater": "Hollywood Theatre",
@@ -20,9 +20,153 @@
       },
       {
         "title": "Filmed By Bike",
-        "date": "2025-05-17",
+        "date": "2025-05-18",
         "showtime": "2:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/squareposter.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "OVA FESTIVAL: MY BODY IS A MACHINE",
+        "date": "2025-05-18",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/OVA-Fest-Banner.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-19",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE ANNIHILATION OF FISH",
+        "date": "2025-05-19",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/annihilation-fish.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CAPOTE in 35mm",
+        "date": "2025-05-19",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/capote.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-20",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "ALL THAT HEAVEN ALLOWS in 35mm",
+        "date": "2025-05-20",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/ALL-Jane.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "16MM ODDBALL COMEDY NIGHT",
+        "date": "2025-05-20",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/chatterteeth.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "Best of PPS Film Festival 2025",
+        "date": "2025-05-21",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/Urban-Outlaws.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-21",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-22",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "VERTIGO in 70mm",
+        "date": "2025-05-22",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/vertigoo.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-23",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "VERTIGO in 70mm",
+        "date": "2025-05-23",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/vertigoo.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "DIAL M FOR MURDER in 35mm",
+        "date": "2025-05-24",
+        "showtime": "1:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/dial-m-for-murder.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-05-24",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "REAR WINDOW in 35mm",
+        "date": "2025-05-24",
+        "showtime": "4:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/rear-window.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "PSYCHO in 35mm",
+        "date": "2025-05-24",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/psycho-hitchcock.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "STOP MAKING SENSE",
+        "date": "2025-05-24",
+        "showtime": "9:45pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/stop-making-sense-1.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       }
@@ -31,26 +175,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "From Dusk Till Dawn",
-        "date": "2025-05-17",
-        "showtime": "7:00p",
-        "info": "R, 1 hr 47 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/from-dusk-till-dawn-1728/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The 'Burbs",
-        "date": "2025-05-17",
-        "showtime": "4:40p",
-        "info": "PG, 1 hr 43 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-burbs-98752/movie-overview",
-        "image": null
-      },
       {
         "title": "Inherent Vice",
         "date": "2025-05-18",
@@ -139,6 +263,36 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-wailing-192656/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Suspiria (2018)",
+        "date": "2025-05-24",
+        "showtime": "7:00p",
+        "info": "R, 2 hr 32 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/suspiria-2018-212329/movie-overview",
+        "image": null
+      },
+      {
+        "title": "TERRIFIED",
+        "date": "2025-05-24",
+        "showtime": "9:15p",
+        "info": "Not Rated, 1 hr 27 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/terrified-214052/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Ring",
+        "date": "2025-05-24",
+        "showtime": "4:45p",
+        "info": "Not Rated, 11 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/ring-112587/movie-overview",
         "image": null
       }
     ]
