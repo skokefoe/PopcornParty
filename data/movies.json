@@ -4,38 +4,6 @@
     "movies": [
       {
         "title": "FRIENDSHIP",
-        "date": "2025-05-18",
-        "showtime": "1:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "A GOOFY MOVIE",
-        "date": "2025-05-18",
-        "showtime": "1:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/A-GOOFY-MOVIE.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "Filmed By Bike",
-        "date": "2025-05-18",
-        "showtime": "2:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/squareposter.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "OVA FESTIVAL: MY BODY IS A MACHINE",
-        "date": "2025-05-18",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/OVA-Fest-Banner.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
         "date": "2025-05-19",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
@@ -177,26 +145,6 @@
     "movies": [
       {
         "title": "Inherent Vice",
-        "date": "2025-05-18",
-        "showtime": "4:00p",
-        "info": "R, 2 hr 28 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/inherent-vice-176742/movie-overview",
-        "image": null
-      },
-      {
-        "title": "The 'Burbs",
-        "date": "2025-05-18",
-        "showtime": "7:00p",
-        "info": "PG, 1 hr 43 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-burbs-98752/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Inherent Vice",
         "date": "2025-05-19",
         "showtime": "7:00p",
         "info": "R, 2 hr 28 min",
@@ -289,6 +237,26 @@
         "title": "Ring",
         "date": "2025-05-24",
         "showtime": "4:45p",
+        "info": "Not Rated, 11 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/ring-112587/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Wailing",
+        "date": "2025-05-25",
+        "showtime": "3:50p",
+        "info": "Not Rated, 2 hr 36 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-wailing-192656/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Ring",
+        "date": "2025-05-25",
+        "showtime": "7:00p",
         "info": "Not Rated, 11 min",
         "theater": "Cinemagic",
         "location": "Portland, OR",
