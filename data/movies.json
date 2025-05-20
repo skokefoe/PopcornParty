@@ -4,30 +4,6 @@
     "movies": [
       {
         "title": "FRIENDSHIP",
-        "date": "2025-05-19",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE ANNIHILATION OF FISH",
-        "date": "2025-05-19",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/annihilation-fish.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "CAPOTE in 35mm",
-        "date": "2025-05-19",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/capote.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
         "date": "2025-05-20",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
@@ -144,26 +120,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "Inherent Vice",
-        "date": "2025-05-19",
-        "showtime": "7:00p",
-        "info": "R, 2 hr 28 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/inherent-vice-176742/movie-overview",
-        "image": null
-      },
-      {
-        "title": "From Dusk Till Dawn",
-        "date": "2025-05-19",
-        "showtime": "4:35p",
-        "info": "R, 1 hr 47 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/from-dusk-till-dawn-1728/movie-overview",
-        "image": null
-      },
-      {
         "title": "The 'Burbs",
         "date": "2025-05-20",
         "showtime": "7:00p",
@@ -261,6 +217,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/ring-112587/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Suspiria (2018)",
+        "date": "2025-05-26",
+        "showtime": "4:45p",
+        "info": "R, 2 hr 32 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/suspiria-2018-212329/movie-overview",
+        "image": null
+      },
+      {
+        "title": "The Wailing",
+        "date": "2025-05-26",
+        "showtime": "7:00p",
+        "info": "Not Rated, 2 hr 36 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/the-wailing-192656/movie-overview",
         "image": null
       }
     ]
