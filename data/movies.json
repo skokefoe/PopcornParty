@@ -3,30 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "FRIENDSHIP",
-        "date": "2025-05-20",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "ALL THAT HEAVEN ALLOWS in 35mm",
-        "date": "2025-05-20",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/03/ALL-Jane.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "16MM ODDBALL COMEDY NIGHT",
-        "date": "2025-05-20",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/chatterteeth.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "Best of PPS Film Festival 2025",
         "date": "2025-05-21",
         "showtime": "7:00pm",
@@ -119,16 +95,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "The 'Burbs",
-        "date": "2025-05-20",
-        "showtime": "7:00p",
-        "info": "PG, 1 hr 43 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-burbs-98752/movie-overview",
-        "image": null
-      },
       {
         "title": "Tiger on Beat",
         "date": "2025-05-21",
@@ -237,6 +203,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/the-wailing-192656/movie-overview",
+        "image": null
+      },
+      {
+        "title": "TERRIFIED",
+        "date": "2025-05-27",
+        "showtime": "5:00p",
+        "info": "Not Rated, 1 hr 27 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/terrified-214052/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Ring",
+        "date": "2025-05-27",
+        "showtime": "7:00p",
+        "info": "Not Rated, 11 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/ring-112587/movie-overview",
         "image": null
       }
     ]
