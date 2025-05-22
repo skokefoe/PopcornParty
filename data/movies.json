@@ -3,22 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "Best of PPS Film Festival 2025",
-        "date": "2025-05-21",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/Urban-Outlaws.jpeg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
-        "date": "2025-05-21",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "FRIENDSHIP",
         "date": "2025-05-22",
         "showtime": "6:30pm",
@@ -95,16 +79,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Tiger on Beat",
-        "date": "2025-05-21",
-        "showtime": "7:00p",
-        "info": "Not Rated, 1 hr 28 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/tiger-on-beat-34707/movie-overview",
-        "image": null
-      },
       {
         "title": "Inherent Vice",
         "date": "2025-05-22",
@@ -219,6 +193,26 @@
         "title": "Ring",
         "date": "2025-05-27",
         "showtime": "7:00p",
+        "info": "Not Rated, 11 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/ring-112587/movie-overview",
+        "image": null
+      },
+      {
+        "title": "TERRIFIED",
+        "date": "2025-05-28",
+        "showtime": "7:00p",
+        "info": "Not Rated, 1 hr 27 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/terrified-214052/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Ring",
+        "date": "2025-05-28",
+        "showtime": "4:50p",
         "info": "Not Rated, 11 min",
         "theater": "Cinemagic",
         "location": "Portland, OR",
