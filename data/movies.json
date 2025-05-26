@@ -3,38 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "REAR WINDOW in 35mm",
-        "date": "2025-05-25",
-        "showtime": "1:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/rear-window.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
-        "date": "2025-05-25",
-        "showtime": "2:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "DIAL M FOR MURDER in 35mm",
-        "date": "2025-05-25",
-        "showtime": "4:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/dial-m-for-murder.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "PSYCHO in 35mm",
-        "date": "2025-05-25",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/psycho-hitchcock.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "VERTIGO in 70mm",
         "date": "2025-05-26",
         "showtime": "2:00pm",
@@ -200,26 +168,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "The Wailing",
-        "date": "2025-05-25",
-        "showtime": "3:50p",
-        "info": "Not Rated, 2 hr 36 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/the-wailing-192656/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Ring",
-        "date": "2025-05-25",
-        "showtime": "7:00p",
-        "info": "Not Rated, 11 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/ring-112587/movie-overview",
-        "image": null
-      },
-      {
         "title": "Suspiria (2018)",
         "date": "2025-05-26",
         "showtime": "4:45p",
@@ -302,6 +250,16 @@
       {
         "title": "Sinners (2025)",
         "date": "2025-05-31",
+        "showtime": "4:00p, 7:00p",
+        "info": "R, 2 hr 17 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Sinners (2025)",
+        "date": "2025-06-01",
         "showtime": "4:00p, 7:00p",
         "info": "R, 2 hr 17 min",
         "theater": "Cinemagic",
