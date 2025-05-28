@@ -4,30 +4,6 @@
     "movies": [
       {
         "title": "FRIENDSHIP",
-        "date": "2025-05-27",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP with Open Captions",
-        "date": "2025-05-27",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "TO LIVE AND DIE IN L.A. in 35mm",
-        "date": "2025-05-27",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/to-live-and-die-in-la.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
         "date": "2025-05-28",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
@@ -137,26 +113,6 @@
     "movies": [
       {
         "title": "TERRIFIED",
-        "date": "2025-05-27",
-        "showtime": "5:00p",
-        "info": "Not Rated, 1 hr 27 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/terrified-214052/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Ring",
-        "date": "2025-05-27",
-        "showtime": "7:00p",
-        "info": "Not Rated, 11 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/ring-112587/movie-overview",
-        "image": null
-      },
-      {
-        "title": "TERRIFIED",
         "date": "2025-05-28",
         "showtime": "7:00p",
         "info": "Not Rated, 1 hr 27 min",
@@ -218,6 +174,16 @@
       {
         "title": "Sinners (2025)",
         "date": "2025-06-02",
+        "showtime": "4:00p, 7:00p",
+        "info": "R, 2 hr 17 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Sinners (2025)",
+        "date": "2025-06-03",
         "showtime": "4:00p, 7:00p",
         "info": "R, 2 hr 17 min",
         "theater": "Cinemagic",
