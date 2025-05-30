@@ -3,30 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "FRIENDSHIP",
-        "date": "2025-05-29",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "RRR",
-        "date": "2025-05-29",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "SWAMP DOGG GETS HIS POOL PAINTED",
-        "date": "2025-05-29",
-        "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/swamp-dogg.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "KILLER OF SHEEP",
         "date": "2025-05-30",
         "showtime": "6:00pm",
@@ -88,16 +64,6 @@
     "theater": "Cinemagic",
     "movies": [
       {
-        "title": "Suspiria (2018)",
-        "date": "2025-05-29",
-        "showtime": "7:00p",
-        "info": "R, 2 hr 32 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/suspiria-2018-212329/movie-overview",
-        "image": null
-      },
-      {
         "title": "Sinners (2025)",
         "date": "2025-05-30",
         "showtime": "7:00p",
@@ -151,6 +117,26 @@
         "title": "Sinners (2025)",
         "date": "2025-06-04",
         "showtime": "4:00p, 7:00p",
+        "info": "R, 2 hr 17 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Dogma: Resurrected! A 25th Anniversary Celebration (2025)",
+        "date": "2025-06-05",
+        "showtime": "7:00p",
+        "info": "R, 2 hr 30 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/dogma-resurrected-a-25th-anniversary-celebration-2025-240375/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Sinners (2025)",
+        "date": "2025-06-05",
+        "showtime": "4:00p",
         "info": "R, 2 hr 17 min",
         "theater": "Cinemagic",
         "location": "Portland, OR",
