@@ -3,30 +3,6 @@
     "theater": "Hollywood Theatre",
     "movies": [
       {
-        "title": "KILLER OF SHEEP",
-        "date": "2025-05-30",
-        "showtime": "6:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/killer-of-sheep.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "JEANNE DIELMAN",
-        "date": "2025-05-30",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/jeannedielman-1.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
-        "date": "2025-05-30",
-        "showtime": "7:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
         "title": "FRIENDSHIP",
         "date": "2025-05-31",
         "showtime": "2:00pm",
@@ -63,16 +39,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Sinners (2025)",
-        "date": "2025-05-30",
-        "showtime": "7:00p",
-        "info": "R, 2 hr 17 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
-        "image": null
-      },
       {
         "title": "Sinners (2025)",
         "date": "2025-05-31",
@@ -141,6 +107,16 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
+        "image": null
+      },
+      {
+        "title": "DAN DA DAN: Evil Eye (2025)",
+        "date": "2025-06-06",
+        "showtime": "7:00p",
+        "info": "R, 1 hr 33 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/dan-da-dan-evil-eye-2025-240152/movie-overview",
         "image": null
       }
     ]
