@@ -4,33 +4,161 @@
     "movies": [
       {
         "title": "FRIENDSHIP",
-        "date": "2025-05-31",
+        "date": "2025-06-01",
         "showtime": "2:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "MOONSTRUCK",
-        "date": "2025-05-31",
+        "title": "HUNDREDS OF BEAVERS in 35mm",
+        "date": "2025-06-01",
         "showtime": "3:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/moonstruck.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Hundreds-of-Beavers.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
         "title": "KILLER OF SHEEP",
-        "date": "2025-05-31",
+        "date": "2025-06-01",
         "showtime": "6:00pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/killer-of-sheep.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       },
       {
-        "title": "BURST CITY",
-        "date": "2025-05-31",
+        "title": "THE SEVEN YEAR ITCH",
+        "date": "2025-06-01",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/seven-year-itch.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-06-02",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "HUNDREDS OF BEAVERS in 35mm",
+        "date": "2025-06-02",
         "showtime": "7:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/Burst-City.jpg",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Hundreds-of-Beavers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-06-03",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "WHITE FIRE",
+        "date": "2025-06-03",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/16x9_whitefire-1.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-06-04",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "SUPER XUXA VS SATAN",
+        "date": "2025-06-04",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/IMG_6857.jpeg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-06-05",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE PHOENICIAN SCHEME",
+        "date": "2025-06-05",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/phoenician-scheme.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE GOONIES 40TH ANNIVERSARY IN 35mm",
+        "date": "2025-06-05",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/goonies.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-06-06",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE PHOENICIAN SCHEME",
+        "date": "2025-06-06",
+        "showtime": "7:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/phoenician-scheme.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "CRIES AND WHISPERS in 35mm",
+        "date": "2025-06-06",
+        "showtime": "7:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/cries-and-whispers.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE PHOENICIAN SCHEME",
+        "date": "2025-06-07",
+        "showtime": "2:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/phoenician-scheme.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "FRIENDSHIP",
+        "date": "2025-06-07",
+        "showtime": "3:00pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "THE PALM BEACH STORY",
+        "date": "2025-06-07",
+        "showtime": "3:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/THE-PALM-BEACH-STORY.jpg",
+        "theater": "Hollywood Theatre",
+        "location": "Portland, OR"
+      },
+      {
+        "title": "DANCER IN THE DARK in 35mm",
+        "date": "2025-06-07",
+        "showtime": "6:30pm",
+        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/dancer-in-the-dark.jpg",
         "theater": "Hollywood Theatre",
         "location": "Portland, OR"
       }
@@ -39,16 +167,6 @@
   {
     "theater": "Cinemagic",
     "movies": [
-      {
-        "title": "Sinners (2025)",
-        "date": "2025-05-31",
-        "showtime": "4:00p, 7:00p",
-        "info": "R, 2 hr 17 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
-        "image": null
-      },
       {
         "title": "Sinners (2025)",
         "date": "2025-06-01",
@@ -117,6 +235,26 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/dan-da-dan-evil-eye-2025-240152/movie-overview",
+        "image": null
+      },
+      {
+        "title": "DAN DA DAN: Evil Eye (2025)",
+        "date": "2025-06-07",
+        "showtime": "4:45p",
+        "info": "R, 1 hr 33 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/dan-da-dan-evil-eye-2025-240152/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Dogma: Resurrected! A 25th Anniversary Celebration (2025)",
+        "date": "2025-06-07",
+        "showtime": "7:00p",
+        "info": "R, 2 hr 30 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/dogma-resurrected-a-25th-anniversary-celebration-2025-240375/movie-overview",
         "image": null
       }
     ]
