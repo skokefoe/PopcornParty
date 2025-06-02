@@ -4,38 +4,6 @@
     "movies": [
       {
         "title": "FRIENDSHIP",
-        "date": "2025-06-01",
-        "showtime": "2:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "HUNDREDS OF BEAVERS in 35mm",
-        "date": "2025-06-01",
-        "showtime": "3:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/01/Hundreds-of-Beavers.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "KILLER OF SHEEP",
-        "date": "2025-06-01",
-        "showtime": "6:00pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/killer-of-sheep.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "THE SEVEN YEAR ITCH",
-        "date": "2025-06-01",
-        "showtime": "6:30pm",
-        "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/05/seven-year-itch.jpg",
-        "theater": "Hollywood Theatre",
-        "location": "Portland, OR"
-      },
-      {
-        "title": "FRIENDSHIP",
         "date": "2025-06-02",
         "showtime": "6:30pm",
         "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/04/friendship-movie.jpg",
@@ -169,16 +137,6 @@
     "movies": [
       {
         "title": "Sinners (2025)",
-        "date": "2025-06-01",
-        "showtime": "4:00p, 7:00p",
-        "info": "R, 2 hr 17 min",
-        "theater": "Cinemagic",
-        "location": "Portland, OR",
-        "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
-        "image": null
-      },
-      {
-        "title": "Sinners (2025)",
         "date": "2025-06-02",
         "showtime": "4:00p, 7:00p",
         "info": "R, 2 hr 17 min",
@@ -255,6 +213,36 @@
         "theater": "Cinemagic",
         "location": "Portland, OR",
         "url": "https://www.fandango.com/dogma-resurrected-a-25th-anniversary-celebration-2025-240375/movie-overview",
+        "image": null
+      },
+      {
+        "title": "DAN DA DAN: Evil Eye (2025)",
+        "date": "2025-06-08",
+        "showtime": "4:45p",
+        "info": "R, 1 hr 33 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/dan-da-dan-evil-eye-2025-240152/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Dogma: Resurrected! A 25th Anniversary Celebration (2025)",
+        "date": "2025-06-08",
+        "showtime": "7:00p",
+        "info": "R, 2 hr 30 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/dogma-resurrected-a-25th-anniversary-celebration-2025-240375/movie-overview",
+        "image": null
+      },
+      {
+        "title": "Encanto (2021)",
+        "date": "2025-06-08",
+        "showtime": "12:00p, 2:20p",
+        "info": "PG, 1 hr 49 min",
+        "theater": "Cinemagic",
+        "location": "Portland, OR",
+        "url": "https://www.fandango.com/encanto-2021-225033/movie-overview",
         "image": null
       }
     ]
